@@ -1,0 +1,4 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/overlay_weather_status_today" />
+    <item android:drawable="@drawable/overlay_weather_status_today" android:id="@+id/innerImg" />
+</layer-list>
